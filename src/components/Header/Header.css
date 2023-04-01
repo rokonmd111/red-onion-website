@@ -1,0 +1,47 @@
+.bg{
+    margin-bottom: 335px;
+    height: 420px !important;
+    width: auto;
+}
+.bg img {
+    width: 100% !important;
+    position: relative;
+}
+.bg-img{
+    position: absolute;
+}
+.top-heaing{
+    z-index: 5;
+    margin-top: 225px;
+}
+.input-group-addon{
+    border: none !important;
+    position: absolute;
+}
+.form-control{
+    border: none !important;
+    border-top-left-radius: 33px !important;
+    border-bottom-left-radius: 33px !important;
+}
+.search-btn{
+    color: white !important;
+    background: #f91944 !important;
+    border-radius: 33px !important;
+    height: 52px;
+    width: 135px;
+    margin-left: 400px;
+}
+.input-group ::placeholder{
+    color: lightgray;
+    padding-left: 10px;
+}
+.input-group {
+    height: 52px !important;
+    position: relative;
+    margin-top: 47px;
+    width: 436px !important;
+    margin-left: 234px;
+}
+.top-heaing h1{
+    font-size: 76px;
+}

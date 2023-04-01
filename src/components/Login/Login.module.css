@@ -1,0 +1,25 @@
+.img {
+    height: 77px;
+    margin-left: 776px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.input {
+    width: 500px !important;
+    background: rgb(240, 240, 240) !important;
+    margin-left: 690px !important;
+    height: 50px !important;
+}
+.input ::placeholder {
+    padding-left: 50px;
+}
+.btn{
+    border-radius: 33px;
+    width: 150px;
+    height: 45px;
+    background-color: #f91944 !important;
+    color: white !important;
+    margin-left: 703px !important;
+    margin-top: 18px;
+    width: 500px !important;
+}

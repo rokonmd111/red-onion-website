@@ -1,0 +1,29 @@
+.navSection{
+    margin: 15px 35px 22px 35px;
+}
+.logo img {
+    width: 200px;
+}
+.login{
+    text-decoration: none !important;
+    color: black !important;
+    font-weight: 600;
+    padding-top: 11px;
+    margin-left: 20px;
+}
+.signup{
+    text-decoration: none !important;
+    color: white !important;
+    font-weight: 600;
+    background: #f91944;
+    border-radius: 33px;
+    width: 103px;
+    height: 37px;
+    text-align: center;
+    padding-top: 4px;
+    margin-left: 20px;
+    margin-top: 6px;
+}
+svg{
+    margin-top: 14px;
+}

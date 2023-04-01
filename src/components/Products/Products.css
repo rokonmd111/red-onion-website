@@ -1,0 +1,13 @@
+.card{
+    border: none !important;
+}
+.card-text{
+    color: gray;
+}
+.col-md-4{
+    margin-bottom: 40px;
+}
+.pd-heading{
+    text-decoration: none;
+    color: black;
+}

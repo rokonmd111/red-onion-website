@@ -1,0 +1,10 @@
+.main-nav-link a{
+    margin-left: 123px;
+    text-decoration: none !important;
+    color: black !important;
+    font-weight: 500;
+}
+.main-nav-link {
+    margin-left: -238px;
+    margin-bottom: 70px;
+}

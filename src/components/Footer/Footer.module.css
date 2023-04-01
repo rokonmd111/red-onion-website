@@ -1,0 +1,35 @@
+.footerBg{
+    background: rgb(22, 22, 22);
+    height: 350px;
+    width: auto;
+    color: white;
+}
+.logo{
+    height: 40px;
+    margin-top: 85px;
+}
+.flink{
+    margin-top: 75px !important;
+}
+.flink a{
+    text-decoration: none;
+    color: white;
+    font-weight: 300;
+}
+.flink p {
+    margin-bottom: 10px;
+}
+.copyright{
+    color: rgb(160, 160, 160);
+}
+.lastlinks a{
+    text-decoration: none;
+    color: white;
+    font-weight: 300;
+}
+.lastlinks{
+    margin-top: 80px;
+}
+.lastlinks p {
+    margin-right: 100px;
+}

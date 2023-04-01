@@ -1,0 +1,36 @@
+.img {
+    height: 90px !important;
+    margin-left: -36px;
+    padding-top: 18px;
+}
+.cardBody{
+    background: rgb(240, 240, 240) !important;
+    width: 310px;
+    height: 110px !important;
+}
+.cTitle{
+    width: 85px;
+    font-size: 13px;
+}
+.cardM{
+    margin-left: 50px;
+}
+.cardM2{
+    margin-left: -43px;
+    padding-top: 10px;
+}
+.cardHnP{
+    padding-left: 21px !important;
+}
+.increment {
+    padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x);
+    padding-left: 0px !important;
+}
+.btnIncr{
+    margin-left: 5px !important;
+    margin-top: 7px;
+    width: 70px !important;
+}
+.price{
+    color: #f91944;
+}
